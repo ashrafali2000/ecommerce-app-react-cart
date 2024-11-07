@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   height: 8rem;
+  margin: 0 auto;
 }
 
 .logo {
